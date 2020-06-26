@@ -15,14 +15,7 @@ export const WEB_IMAGES = [
     id: '3',
     source: require('../../../assets/images/skills/skill100/icons8-javascript-100.png'),
     thumbnail: require('../../../assets/images/skills/icons8-javascript-50.png'),
-    caption: 'JavaScript',
-  },
-
-  {
-    id: '4',
-    source: require('../../../assets/images/skills/skill100/icons8-typescript-100.png'),
-    thumbnail: require('../../../assets/images/skills/icons8-typescript-50.png'),
-    caption: 'TypeScript',
+    caption: 'JS',
   },
   {
     id: '4',
